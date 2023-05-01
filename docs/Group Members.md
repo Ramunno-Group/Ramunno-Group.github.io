@@ -1,4 +1,4 @@
-# Group Members #
+# Group Members
 
 ### Lora Ramunno ###
 Professor and group leader 
@@ -7,7 +7,7 @@ Professor and group leader
 - [Google Scholar](https://scholar.google.ca/citations?user=3RBAv4QAAAAJ&hl=en)
 - [Research Gate](https://www.researchgate.net/profile/Lora_Ramunno)
 
-<img src = "\img\lora.jpg" width = "200" height = "200">
+<img src = "\img\profile\lora.jpg" width = "200" height = "200">
 
 Prof. Ramunno obtained her Ph.D. in physics from the University of Toronto in 2002. After a year in a high-tech start-up, she returned to academia as a postdoctoral fellow at uOttawa. Since 2007, she has been a faculty member in Physics at uOttawa where she is currently Full Professor. She was the recipient of a New Frontiers in Research Fund Exploration Grant in 2020, held a Canada Research Chair in Computational Nanophotonics from 2007-2017, and received an Early Researcher Award in 2007. Her theoretical/computational research focuses on nonlinear and nano-optics, including intense laser-matter interaction, nanophotonics,  nonlinear optical microscopy and photonic devices. She also has several successful industrial collaborative projects.
 
@@ -16,7 +16,7 @@ Prof. Ramunno is a fellow of the Max-Planck-UOttawa Centre for Extreme and Quant
 ### Masoud Navrood ###
 Postdoctoral Fellow (2021-)
 
-<img src = "\img\masoud.png" width = "200" height = "200">
+<img src = "\img\profile\masoud.png" width = "200" height = "200">
 
 Masoud received his Ph.D. in physics from Western Michigan University in 2019. After a year working as a research scientist, he joined as a postdoctoral fellow to Prof. Berini and Prof. Ramunno groups. During his Ph.D. research, he focused on theoretical study of localized surface plasmons in metallic nanoparticles and clusters, including but not limited to LSPR sensitivity and ultrafast electron-phonon dynamics in thiolate-protected plasmonic gold clusters. His current work involves numerical modeling of electrodynamics on high-performance computers for plasmonic and meta-surface applications, such as designing and modeling plasmonic meta-surfaces for beam steering, and graphene-based hybrid plasmonic modulators.
 
@@ -26,21 +26,21 @@ M.Sc. Student (2017-2019) - P.hD. Student (2019-)
 [Research Gate](https://www.researchgate.net/profile/Joshua_Baxter)
 - [Google Scholar](https://scholar.google.ca/citations?userhttps://scholar.google.com/citations?user=Zos3fUgAAAAJ&hl=en=A2YvT90AAAAJ&hl=en)
 
-<img src = "\img\josh.png" width = "200" height = "200">
+<img src = "\img\profile\josh.png" width = "200" height = "200">
 
 Joshua earned his BSc in Physics/Mathematics from the University of Ottawa in 2017 and started his MSc in the same year. He transferred to his PhD in 2019. His work has involved plasmonic colouring with ultrafast lasers, simulations of laser heating, and computational nanophotonics. His current work focuses on nanophotonic inverse design, nonlinear plasmonics, high harmonic generation, epsilon-near-zero materials, and deep Learning for nanophotonics. He currently holds an NSERC Vanier Canada Graduate Scholarship (2020 – 2023). 
 
 ### Norman Israel ###
 P.hD. Student (2020-)
 
-<img src = "\img\norman.png" width = "200" height = "200">
+<img src = "\img\profile\norman.png" width = "200" height = "200">
 
 Norman earned his BA in Physics and Mathematics from The College of Wooster in 2012. He then completed his MSc at Ohio University in 2014. His past research involved theoretical work in Classical and Quantum Gravity, as well as Material Science. He has also contributed to experimental work to probe nuclear structure. Norman started his PhD at the University of Ottawa in 2020 where he is focused on the applications of inverse design to Nanophotonics.
 
 ### Gavin Crowder ###
 P.hD. Student (2021-)
 
-<img src = "\img\gavin.jpg" width = "200" height = "200">
+<img src = "\img\profile\gavin.jpg" width = "200" height = "200">
 
 Gavin graduated from Queen’s University in 2018 with a BSc in Mathematical Physics and then continued into an MSc in Physics at Queen’s which he completed in 2020. After a year continuing the research from his Master’s, he began his PhD at the University of Ottawa in May 2021. His research focuses on developing theoretical and computational techniques for modelling time-delayed feedback effects in waveguide quantum electrodynamic systems. 
 
@@ -51,7 +51,7 @@ M.Sc. Student (2019-2021) - P.hD. Student (2021-)
 - [Research Gate](https://www.researchgate.net/profile/Evan_Norris)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=feeGoEYAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F4HGOteOdEsVlngByIwnbI5AL9ChyNkeM1LNx-8eYcJHCHhHMOh2l7xHHntWxkQzEtxBulNy7ZhlebXrnvNVDfFH4C7t9zEn6ZT-RY2s5d04paeKj4)
 
-<img src = "\img\evan.jpg" width = "200" height = "200">
+<img src = "\img\profile\evan.jpg" width = "200" height = "200">
 
 Evan earned his BSc in Physics from Louisiana Tech University in 2019 and began his MSc the same year at the University of Ottawa. He finished his MSc and began work on his PhD in the fall of 2021. His current work focuses on computational imaging and nonlinear optical microscopy.
 
@@ -61,7 +61,7 @@ M.Sc. Student (2020-2022) - P.hD. Student (2022-)
 [Research Gate](https://www.researchgate.net/profile/Jesse_Thompson12)
 - [Google Scholar](https://scholar.google.com/citations?user=wPSTjrkAAAAJ&hl=en)
 
-<img src = "\img\jesse.jpg" width = "200" height = "200">
+<img src = "\img\profile\jesse.jpg" width = "200" height = "200">
 
 Jesse obtained his BSc in Physics and Astronomy from the University of Waterloo in June of 2020. The following September he began his MSc at the University of Ottawa. His work focuses on high-order harmonic generation and investigating ways to improve upon its efficiency through computational methods. 
 

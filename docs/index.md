@@ -3,15 +3,15 @@ The uOttawa Computational Nanophotonics Lab is led by Lora Ramunno, who is a Ful
 
 We have many active collaborations with leading experimental and theoretical scientists in Canada and Internationally, including the [Max Planck - uOttawa Center for Extreme and Quantum Photonics](https://research.uottawa.ca/centres-institutes/max-planck-centre).
 
-![MPC](\img\mpc_logo.jpg)
+![MPC](\img\logo\mpc_logo.jpg)
 
 and the [NRC-uOttawa Joint Center for Extreme Photonics](extremephotonics.com)
 
-![JCEP](\img\JCEP-Logo.png)
+![JCEP](\img\logo\JCEP-Logo.png)
 
 We are a major user of state-of-the-art computational facilities, including
 
-![DRA](\img\DRAClogo.png)
+![DRA](\img\logo\DRAClogo.png)
 
 Applications from prosepctive students and postdoctoral fellows are welcome. See [here](https://ramunno-group.github.io/Positions/) for details on open positions
 
