@@ -13,5 +13,5 @@ We are a major user of state-of-the-art computational facilities, including
 
 ![DRA](\img\DRAClogo.png)
 
-Applications from prosepctive students and postdoctoral fellows are welcome. See [here](https://ramunno-group.github.ioPositions/) for details on open positions
+Applications from prosepctive students and postdoctoral fellows are welcome. See [here](https://ramunno-group.github.io/Positions/) for details on open positions
 
