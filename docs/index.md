@@ -1,17 +1,17 @@
-# Welcome to MkDocs
+# About Us 
+The uOttawa Computational Nanophotonics Lab is led by Lora Ramunno, who is a Full Professor in the [Department of Physics](https://science.uottawa.ca/physics/) and a member of the [Nexus for Quantum Technologies Institute (NEXQT) at uOttawa](https://www2.uottawa.ca/research-innovation/quantum-institute). We explore the fundamental physics and applications in nanophotonics, nonlinear optics, imaging, extreme light-matter interactions, and artificial intelligence.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+We have many active collaborations with leading experimental and theoretical scientists in Canada and Internationally, including the [Max Planck - uOttawa Center for Extreme and Quantum Photonics](https://research.uottawa.ca/centres-institutes/max-planck-centre).
 
-## Commands
+![MPC](\img\mpc_logo.jpg)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+and the [NRC-uOttawa Joint Center for Extreme Photonics](extremephotonics.com)
 
-## Project layout
+![JCEP](\img\JCEP-Logo.png)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+We are a major user of state-of-the-art computational facilities, including
+
+![DRA](\img\DRAClogo.png)
+
+Applications from prosepctive students and postdoctoral fellows are welcome. See [here](https://ramunno-group.github.ioPositions/) for details on open positions
+
